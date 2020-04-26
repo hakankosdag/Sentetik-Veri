@@ -1,2 +1,2 @@
-# Sentetik-Veri-retme
-C# ve R kullanılmıştır.
+# Sentetik Veri Üretme
+
